@@ -1,0 +1,10 @@
+List of references : 	
+1) jQuery Documentation
+2) Wikipedia
+3) Piazza Classroom
+4) Udacity Forums
+5) Stack Overflow
+6) Google Hangouts Video 
+7) W3Schools 
+
+Github repositories : Project Repository
